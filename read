@@ -1,0 +1,1 @@
+nohup python3 run.py with data_root="/root/paddlejob/workspace/env_run/output/shaozhiyin/data/LUPerson_arrow" num_gpus=8 num_nodes=1 task_mlm_cl_LPP whole_word_masking=True step200k per_gpu_batchsize=64 > /root/paddlejob/workspace/env_run/output/shaozhiyin/experiment/data/nohup/LUPerson_cl_mlm.out 2>&1 &

@@ -1,0 +1,3 @@
+nohup python3 run.py with data_root="/root/paddlejob/workspace/env_run/output/shaozhiyin/data/LUPerson_clip_128w_phrase_arrow" num_gpus=8 num_nodes=1 task_mlm_cl_LPP_100_max_1e5_2stream_allinit_Crop_FLip_size384128 whole_word_masking=True per_gpu_batchsize=64 > /root/paddlejob/workspace/env_run/output/shaozhiyin/result/nohup/task_mlm_cl_LPP_100_max_1e5_2stream_allinit_Crop_FLip_size384128.out 2>&1 &
+# cd /root/paddlejob/workspace/env_run
+# sh run_cae_base.sh
