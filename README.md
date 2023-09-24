@@ -1,6 +1,6 @@
 # UniPT
 
-Code for the ICCV 2023 paper: "[Unified Pre-training with Pseudo Texts for Text-To-Image Person Re-identification]"
+Code for the ICCV 2023 paper: "[Unified Pre-training with Pseudo Texts for Text-To-Image Person Re-identification](https://arxiv.org/pdf/2309.01420.pdf)"
 
 ---
 <p align="center">
